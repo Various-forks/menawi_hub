@@ -39,10 +39,4 @@ matches:
             Option one: [[list_option_one]] 
             Option two: [[list_option_two]]
             Option three: [[list_option_three]]
-          fields:
-            form_name:
-            trigger:
-            variable:
-            replace:
-            var_type:
-            list_option_one:
+
